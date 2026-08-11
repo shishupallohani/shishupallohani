@@ -17,7 +17,7 @@
 
 I'm a **Java & Spring Boot backend developer** with **4+ years** of specialized experience designing and building distributed, microservices-based systems that hold up under real production load.
 
-- 🔭 Currently building **ICMS** — an Insurance Core Management System for a Third Party Administrator, spanning **9 microservices** (Master Data, PreAuth, Member, Provider, Claim, DMS, Communication, SLA, Grievance) integrated across **4 portals** (Corporate, Member, Insurer, Provider)
+- 🔭 Recently building **ICMS** — an Insurance Core Management System for a Third Party Administrator, spanning **9 microservices** (Master Data, PreAuth, Member, Provider, Claim, DMS, Communication, SLA, Grievance) integrated across **4 portals** (Corporate, Member, Insurer, Provider)
 - 💼 Previously shipped **BSS Procure-to-Pay**, an eProcurement & AP automation platform used by **Marriott, Hyatt, and Hilton**
 - 🏥 Built backend modules for **HPH Connect**, a healthcare insurance platform for **Harvard Pilgrim Health Care (USA)**
 - 🎓 Pursuing **MCA at Chandigarh University**, wrapping up a capstone Employee Management System (Spring Boot, Thymeleaf, PostgreSQL, Docker)
