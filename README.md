@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shishupal Lohani</h1>
+<h1 align="center">Hi, I'm Shishupal Lohani</h1>
 <h3 align="center">Java & Spring Boot Backend Engineer | Microservices Architect</h3>
 
 <p align="center">
